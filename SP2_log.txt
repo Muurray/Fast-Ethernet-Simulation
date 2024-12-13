@@ -1,0 +1,10 @@
+Sent frame 2 to switch.
+Received frame 1 from SP1
+Sent frame 2 to switch.
+Received frame 1 from SP1
+Sent frame 2 to switch.
+Received frame 1 from SP1
+Sent frame 2 to switch.
+Received frame 1 from SP1
+Sent frame 2 to switch.
+Received frame 1 from SP1
